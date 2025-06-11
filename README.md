@@ -27,7 +27,7 @@ If I had more time, I’d like to:
 
 ---
 
-## ▶How to Run the Tests
+## How to Run the Tests
 
 You can run the tests in different ways:
 
