@@ -1,6 +1,9 @@
 ## Project Overview
 
-This is a small project I did in a short time. There are some things I would definitely improve if I had more hours, but I'm happy with how it turned out. I like to work using Page Object Model (POM) because it makes things easier to maintain and understand. Also, I added GitHub Actions to run the tests in CI/CD which is something I always try to include (the executions are currently working as expected). It would be great to have `data-testid` attributes in the app to use better locators. In other projects I worked on, developers added them on purpose to help the QA automation team and make tests more stable.
+This is a small project I did in a short time. There are some things I would definitely improve if I had more hours, but I'm happy with how it turned out. I like to work using Page Object Model (POM) because it makes things easier to maintain and understand. Also, I added GitHub Actions to run the tests in CI/CD which is something I always try to include (the executions are currently working as expected). 
+
+It would be great to have `data-testid` attributes in the app to use better locators. In other projects I worked on, developers added them on purpose to help the QA automation team and make tests more stable.
+
 ---
 
 ## Test Coverage
