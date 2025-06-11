@@ -21,7 +21,7 @@ test('User can add a stakeholder to a newly created project', async ({ page }) =
 
   await stakeholdersPage.goto();
   const stakeholderName = 'Zeke Dellavechia';
-  const actionName = `AutoTest Create Action - ${Date.now()}`
-  await stakeholdersPage.searchStakeholder(stakeholderName)
-  await stakeholdersPage.addProjectToStakeholder(projectName, stakeholderName, actionName)
+  const actionName = `AutoTest Create Action - ${Date.now()}`;
+  await stakeholdersPage.searchStakeholder(stakeholderName);
+  await stakeholdersPage.addProjectToStakeholder(projectName, stakeholderName, actionName);
 });
